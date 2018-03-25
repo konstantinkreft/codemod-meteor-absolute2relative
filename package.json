@@ -1,0 +1,13 @@
+{
+  "name": "codemod-meteor-absolute2relative",
+  "version": "1.0.0",
+  "description": "codemod to transform absolute into relative imports",
+  "main": "index.js",
+  "author": "kreftk",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "jscodeshift": "^0.4.1",
+    "path": "^0.12.7"
+  }
+}
